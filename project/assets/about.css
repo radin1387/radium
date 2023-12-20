@@ -1,0 +1,46 @@
+body{
+    background-image: url(image/cool-background\ \(3\).png);
+}
+#tittle{
+    margin-top: 2% ;
+    padding-left: 6%;
+    color: rgb(247, 247, 247);    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#logo{
+    width: 350px;
+    margin-left: 100px;
+    margin-top: 80px;
+    border:5px solid rgb(255, 255, 255);
+    border-radius:50%;
+}
+#block{
+    color:rgb(247, 247, 247);
+    margin-top: 1%;
+    padding: 6%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#contact{
+    padding-left: 6%;
+    color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#mail{
+    padding-left: 6%;
+    color: antiquewhite;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#phone{
+    padding-left: 6%;
+    color: antiquewhite;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#copy{
+    font-size: larger;
+    color: antiquewhite;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
